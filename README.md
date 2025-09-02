@@ -1,6 +1,6 @@
 # Hi 👋 My name is Alexandre Raczinoski
 
-###  Undergraduate student in Computer Science at UFRGS
+###  I'm an undergraduate student in Computer Science at UFRGS
 
 * 🌍  I'm based in Porto Alegre - RS (Brazil)
 * ✉️  You can contact me at [alexandreraczinoski@gmail.com](mailto:alexandreraczinoski@gmail.com)
